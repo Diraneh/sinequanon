@@ -1,0 +1,37 @@
+.navbar-dark .navbar-toggler-icon {background-image: url(image/télécharger.png); }
+ul{
+
+  display: none;
+}
+#menu{ 
+
+  
+
+  display: none;
+  height: 70px;
+  margin-left: auto;
+  
+}
+#menu-btn{
+
+  display: inline-block ;
+   
+}
+#menu-btn:checked {
+   
+}
+#menu-btn img {
+  width: 50px;
+}
+span{
+  
+  display:block;
+}
+
+h1{
+  font-size: 40px;
+}
+#scroll{
+  margin-top: 200px;
+ 
+}

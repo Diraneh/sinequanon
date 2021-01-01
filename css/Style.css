@@ -1,0 +1,54 @@
+@font-face {
+
+  
+    font-family: 'gothammedium';
+    src: url('./police/gothammedium-webfont.woff2') format('woff2'),
+         url('./police/gothammedium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gothambook';
+    src: url('./police/gothambook-webfont.woff2') format('woff2'),
+         url('./police/gothambook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+.titre{
+    margin-left: 20%;
+    font-family: "Gotham";
+    
+    text-decoration-color: blue;
+   
+}
+
+#defaultCheck1{
+    background-color: red;
+}
+
+.formulaire{
+    padding: 50px;
+}
+
+
+#textinput{
+   background-color: red;
+  
+}
+
+.threat{
+ margin-left: 285px;
+}
+
+
+.btn {
+    margin-left:45% ;
+}
